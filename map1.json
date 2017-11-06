@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#76ba40",
+        "title": "MOSCOW",
+        "marker-size": "large",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.628173828125,
+          55.7487578359952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "title": "TVER",
+        "marker-size": "medium",
+        "marker-symbol": "z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.936279296875,
+          56.8609857506449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e22400",
+        "marker-size": "small",
+        "marker-symbol": "triangle",
+        "title": "VOLOGDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.88037109375,
+          59.22093407615045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fff76b",
+        "marker-size": "medium",
+        "marker-symbol": "square",
+        "title": "NIJNIY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.01123046875,
+          56.32872090717995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.50732421875,
+            55.97379820507658
+          ],
+          [
+            37.6171875,
+            55.99838095535963
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.8583984375,
+            59.19843857520702
+          ],
+          [
+            35.92529296875,
+            56.88500172043518
+          ],
+          [
+            37.5732421875,
+            55.751849391735284
+          ],
+          [
+            43.9892578125,
+            56.34090120419907
+          ],
+          [
+            36.03515625,
+            56.8729956637964
+          ],
+          [
+            30.344238281249996,
+            53.90433815627468
+          ],
+          [
+            37.44140625,
+            55.73948169869349
+          ]
+        ]
+      }
+    }
+  ]
+}
